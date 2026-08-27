@@ -1,0 +1,12 @@
+case_id,facility,service,department,slots_needed,hours_per_slot,cost_per_slot,patients_affected,clinical_urgency,request_date
+201,North Clinic,Cardiology Consults,Cardiology,18,2,180,36,9,2026-08-28
+202,North Clinic ,Imaging Slots,Radiology,24,1,140,48,8,2026-08-28
+203,East Medical Center,Infusion Sessions,Oncology,16,3,260,28,10,2026-08-29
+204,East Medical Center,Physical Therapy,,30,1,95,52,6,2026-08-29
+205,South Clinic,Respiratory Therapy,Pulmonary,20,2,150,40,9,2026-08-29
+206,South Clinic,Cardiology Consults,Cardiology,15,2,180,,8,2026-08-30
+207,West Medical Center,Imaging Slots,Radiology,22,1,140,44,9,2026-08-30
+208,West Medical Center,Infusion Sessions,Oncology,14,3,260,25,10,2026-08-30
+209,Central Clinic,Physical Therapy,Rehabilitation,-25,1,95,45,7,2026-08-31
+210,Central Clinic,Respiratory Therapy,Pulmonary,19,2,150,38,12,2026-08-31
+208,West Medical Center,Infusion Sessions,Oncology,14,3,260,25,10,2026-08-30

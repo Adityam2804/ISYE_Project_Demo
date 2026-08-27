@@ -1,0 +1,12 @@
+order_id,warehouse,product,category,units_needed,space_per_unit,cost_per_unit,customer_demand,stockout_risk,need_by_date
+101,Albany DC,Servo Motors,Components,45,6,82,390,9,2026-08-28
+102,Buffalo DC ,Sensor Kits,Electronics,70,3,44,520,8,2026-08-28
+103,Troy DC,Safety Gloves,Safety,180,1,9,610,6,2026-08-29
+104,Syracuse DC,Packing Film,,90,2,13,340,7,2026-08-29
+105,Albany DC,Bearings,Components,65,4,31,470,9,2026-08-29
+106,Buffalo DC,Servo Motors,Components,40,6,82,,10,2026-08-30
+107,Troy DC,Sensor Kits,Electronics,55,3,44,455,8,2026-08-30
+108,Syracuse DC,Safety Gloves,Safety,160,1,9,580,7,2026-08-30
+109,Albany DC,Packing Film,Packaging,-75,2,13,300,6,2026-08-31
+110,Buffalo DC,Bearings,Components,60,4,31,430,12,2026-08-31
+108,Syracuse DC,Safety Gloves,Safety,160,1,9,580,7,2026-08-30
